@@ -1,0 +1,64 @@
+/* SK PSP */
+
+.penutup1 {
+  margin-left: 200px;
+}
+
+.penutup2 {
+  margin-left: 200px;
+}
+
+.penutup3 {
+  margin-left: 55%;
+}
+
+.ttd {
+  margin-top: 80px;
+  text-align: center;
+  margin-left: -120px;
+}
+
+.ttd1 {
+  margin-top: 80px;
+}
+
+/* NOTA DINAS */
+.container {
+  border: 1px solid black;
+  width: 63%;
+}
+
+.kop-surat p {
+  line-height: 10px;
+}
+
+.jdl1 {
+  margin-top: 15px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.jdl2 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.jdl3 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.jdl4 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.jdl5 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.alamat {
+  margin-top: 25px;
+  font-size: small;
+}
